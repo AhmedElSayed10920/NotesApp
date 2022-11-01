@@ -13,7 +13,7 @@ class _LoginState extends State<Login> {
     return Scaffold(
       appBar: AppBar(
         title: Text("Note App"),
-        centerTitle: true,
+        // centerTitle:true,
       ),
       body: 
          Container(

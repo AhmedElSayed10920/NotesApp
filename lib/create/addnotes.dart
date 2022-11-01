@@ -13,7 +13,7 @@ class _AddNotesState extends State<AddNotes> {
     return Scaffold(
       appBar: AppBar(
         title: Text("New Note"),
-        centerTitle: true,
+        // centerTitle: true,
       ),
       body: 
          Container(
